@@ -1,1 +1,2 @@
-# STDUY JAVA
+# JAVA
+STUDY JAVA ╰(*°▽°*)╯
